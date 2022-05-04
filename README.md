@@ -1,4 +1,4 @@
-# Japot8
+# Globet
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 ## Layout reference
@@ -9,5 +9,5 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Deploy
 
 ```
-ng deploy --base-href=/Japot8/
+ng deploy --base-href=/Globet/
 ```

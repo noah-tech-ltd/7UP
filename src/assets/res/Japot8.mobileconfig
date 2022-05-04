@@ -783,7 +783,7 @@
 			<key>IsRemovable</key>
 			<true/>
 			<key>Label</key>
-			<string>Japot8</string>
+			<string>Globet</string>
 			<key>PayloadDescription</key>
 			<string>配置 Web Clip 設定</string>
 			<key>PayloadDisplayName</key>
@@ -803,13 +803,13 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Japot8</string>
+	<string>Globet</string>
 	<key>PayloadDisplayName</key>
-	<string>Japot8</string>
+	<string>Globet</string>
 	<key>PayloadIdentifier</key>
 	<string>wengshengkaideMacBook-Pro.87CC74F9-A2D2-4518-B5AF-E3018451B190</string>
 	<key>PayloadOrganization</key>
-	<string>Japot8</string>
+	<string>Globet</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
